@@ -1,8 +1,8 @@
 
-//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //console.log("hello");
-/*
-Stack (Primitive), Heap (Non-primitive)
+
+//Stack (Primitive), Heap (Non-primitive)
 let name = "Harsh";          // primitive datatype which will store in Stack
 let user1 = {                // Non-primitive store in Heap
   email : "chafleharsh@gmail.com,
@@ -13,7 +13,7 @@ user2.email = "something@gmail.com"
 console.log("User1.email")
 console.log(""user2.email)
                             // both will have same value of email as next updated email
-//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //Strings
 const name = "Harsh-HC"
 const work= "Learning Javascript"
@@ -51,25 +51,8 @@ console.log(url.includes('harsh')  /returns boolean value
 //basically we can create an array of strings
 console.log(gameName.split('-')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Strings are immutable
-
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
